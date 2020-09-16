@@ -1,0 +1,11 @@
+{
+  "name": "tsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "COMP 229 - F2020 - Week 1",
+  "author": "Aileen Nicole Alapan",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
